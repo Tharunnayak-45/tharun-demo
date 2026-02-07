@@ -1,3 +1,4 @@
 # tharun-demo
 This is a my first Git Repository.
-Author - Tharun nayak
+<br>
+Author - Mudavath Tharun
